@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\Network\Plugins\DotNetty-0.6.0 Core\System.Collections.Immutable.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\Network\Plugins\lz4-v1.0.15\net35\lz4.AnyCPU.loader.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\Network\Plugins\lz4-v1.0.15\net35\x64\lz4.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\Network\Plugins\lz4-v1.0.15\net40\lz4.AnyCPU.loader.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\packages\K4os.Compression.LZ4.1.1.11\lib\net45\K4os.Compression.LZ4.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\NoTeShineL\VisualStudioProjects\testRMI_Dummy\Network\Plugins\lz4-v1.0.15\lz4.AnyCPU.loader.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
